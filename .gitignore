@@ -1,0 +1,15 @@
+*.classpath
+
+*.project
+
+*.class
+*.prefs
+.target
+*.MF
+*.properties
+*.lst
+*.jar
+TEST-com.epam.multy.module.module1.AppTest.xml
+TEST-com.epam.multy.module.module2.AppTest.xml
+com.epam.multy.module.module1.AppTest.txt
+com.epam.multy.module.module2.AppTest.txt
